@@ -39,7 +39,7 @@ function contaAnagramas(string) {
     return contador;
 }
 
-    //console.log(contaAnagramas(palavra));
+    console.log(contaAnagramas(palavra));
     //console.log(geraSubstrings(palavra));
 
     //exporta a função para teste
