@@ -9,7 +9,6 @@ const tamanho = 6;
 function validaSenha(p,n){
 
     //declaração de variáveis principais (RegEx)
-    let retorno = false;
     const letrasMaiusculas = /[A-Z]/;
     const letrasMinusculas = /[a-z]/; 
     const numeros = /[0-9]/;
