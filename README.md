@@ -1,6 +1,6 @@
 # Desafio de programação
 
-Para realizar este desafio de programação, utilizei a linguagem JavaScript, por estar mais familiarizado com ela. Mas já estou estudando e pretendo reescrever o código em Java até o dia 20/02/22.
+Para realizar este desafio de programação utilizei a linguagem JavaScript, por estar mais familiarizado com ela. Mas já estou estudando e pretendo reescrever o código em Java até o dia 20/02/22.
 
 ## Questão 1
 
