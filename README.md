@@ -16,7 +16,7 @@ A Questão 3 faz a contagem de substrings que são anagramas em uma palavra. Uti
 
 ## Como rodar os testes
 
-Usei `Jasmine` para escrever os testes. Para rodar os testes digite o seguinte comando:
+Usei `Jasmine` para escrever os testes. Para rodar os testes, digite o seguinte comando:
 
 ```
 npm test
