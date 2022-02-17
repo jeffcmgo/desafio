@@ -60,7 +60,7 @@ function validaSenha(p,n){
     return falta;
 }
 
-//console.log(validaSenha(senha,tamanho));
+console.log(validaSenha(senha,tamanho));
 
 //exporta a função para teste
 exporta.validaSenha = validaSenha;
